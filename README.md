@@ -208,6 +208,7 @@ This project is open for improvements and educational purposes. Feel free to:
 
 ## 📄 License
 
+
 This project is licensed under the **MIT License** - see the LICENSE file for details.
 
 ## 👨‍💻 Author
